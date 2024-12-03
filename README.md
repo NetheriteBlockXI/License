@@ -1,6 +1,8 @@
-# XP Studios - Project README
+# XP Studios - License README
 
 Welcome to the XP Studios License project! This repository contains licenses for XP Studios projects.
+
+Note: I am not like, a lawyer or anything, but I tried my best on this.
 
 ---
 

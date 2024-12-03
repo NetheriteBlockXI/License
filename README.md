@@ -1,17 +1,17 @@
 # XP Studios - Project README
 
-Welcome to the XP Studios project! This repository contains the source code, packaged projects, and other materials related to XP Studios' games and content.
+Welcome to the XP Studios License project! This repository contains licenses for XP Studios projects.
 
 ---
 
 ## License Information
 
-The use, modification, and distribution of the content in this repository are governed by the XP Studios License. Please ensure you read and understand the terms before proceeding.
+The use, modification, and of XP Studios projects are governed by the XP Studios License. Please make sure you read and understand the terms before proceeding.
 
 ### License Versions
 - **Version 1**: [XP Studios License - Version 1](./Versions/Version%201.md)
 
-Each version of the license supersedes previous versions, so be sure to review the correct version based on the project requirements.
+Each license version supersedes previous versions, so be sure to review the correct version based on the project requirements.
 
 ---
 
